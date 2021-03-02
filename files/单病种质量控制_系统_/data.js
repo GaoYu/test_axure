@@ -1,0 +1,7 @@
+﻿$axure.loadCurrentPage(
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,c,d,e,f,_(g,h,i,_(j,k,l,k)),m,[],n,_(h,o),p,[q,r,s],t,_(u,v,w,x,g,y,z,_(),A,[],B,_(C,D,E,F,G,_(H,I,J,K),L,null,M,F,F,N,O,P,null,Q,R,S,T,U,V,W,R,X,Y,_(H,I,J,Z),ba,R,bb,bc,_(bd,be,bf,bg,bh,bg,bi,bg,bj,k,J,_(bk,bl,bm,bl,bn,bl,bo,bp)),i,_(j,k,l,k)),bq,_(),br,_(),bs,_(bt,[])),bu,_(),bv,_());}; 
+var b="url",c="单病种质量控制_系统_.html",d="generationDate",e=new Date(1614129267276.98),f="defaultAdaptiveView",g="name",h="",i="size",j="width",k=0,l="height",m="adaptiveViews",n="sketchKeys",o="s0",p="variables",q="OnLoadVariable",r="globalFontSize",s="axhubclickvalue",t="page",u="packageId",v="5a8e511bf221454ca9a5194a5c4d316e",w="type",x="Axure:Page",y="单病种质量控制(系统)",z="notes",A="annotations",B="style",C="baseStyle",D="627587b6038d43cca051c114ac41ad32",E="pageAlignment",F="near",G="fill",H="fillType",I="solid",J="color",K=0xFFFFFFFF,L="image",M="imageAlignment",N="imageRepeat",O="auto",P="favicon",Q="sketchFactor",R="0",S="colorStyle",T="appliedColor",U="fontName",V="Applied Font",W="borderWidth",X="borderVisibility",Y="borderFill",Z=0xFF797979,ba="cornerRadius",bb="cornerVisibility",bc="outerShadow",bd="on",be=false,bf="offsetX",bg=5,bh="offsetY",bi="blurRadius",bj="spread",bk="r",bl=0,bm="g",bn="b",bo="a",bp=0.349019607843137,bq="adaptiveStyles",br="interactionMap",bs="diagram",bt="objects",bu="masters",bv="objectPaths";
+return _creator();
+})());
